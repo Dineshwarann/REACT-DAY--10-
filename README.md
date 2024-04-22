@@ -16,5 +16,6 @@ Portal Button - By clicking this button user can return to the home page from wh
 
 Theme Button(At the top-right corner) - By clicking this button user can switch between dark theme and light theme
 
+Mentor instructed us to do the task in normal fetch API calls method and not to use AXIOS API calls .
 
-- [LIVE SERVER](https://reactday10byfabianrajafernando.netlify.app/) 
+- [LIVE SERVER](https://employeecardtaskreactday10.netlify.app/) 
